@@ -3,7 +3,7 @@ The % sign means the square root sign...
 -> means hit the store button
 
 
-Name:Quad
+Name:Quadratics
 
 Disp "ENTER A"
 Input A
